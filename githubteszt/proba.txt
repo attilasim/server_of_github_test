@@ -1,4 +1,5 @@
 valami
-modosítás githubon
+modosÃ­tÃ¡s githubon
 2 hubon
-lok�lisan
+lokálisan
+én elmentem a vásárba fél pénzen
