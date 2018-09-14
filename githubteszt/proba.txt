@@ -1,7 +1,7 @@
 valami
-modosítás githubon
+modositas githubon
 2 hubon
-lok�lisan
+lokalisan
 4
 5
 6
