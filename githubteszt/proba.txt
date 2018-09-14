@@ -1,14 +1,10 @@
 valami
 modositas githubon
 2 hubon
-<<<<<<< OURS
 lokalisan
 4
 5
 6
 7
-=======
-lokálisan
-én elmentem a vásárba fél pénzen
+En elmentem a vasarba fell penzen
 meg nyilnak a volgyben
->>>>>>> THEIRS
